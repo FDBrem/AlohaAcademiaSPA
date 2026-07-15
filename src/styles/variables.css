@@ -1,0 +1,42 @@
+:root{
+
+    /* Colores */
+
+    --color-primary:#1E5FA8;
+    --color-primary-light:#3B82C4;
+
+    --color-background:#0A0F18;
+    --color-surface:#111827;
+
+    --color-text:#FFFFFF;
+    --color-text-secondary:#D1D5DB;
+
+    --color-border:rgba(255,255,255,.12);
+
+    /* Tipografía */
+
+    --font-title:"Bebas Neue", sans-serif;
+    --font-body:"Inter", sans-serif;
+
+    /* Espaciados */
+
+    --container-width:1300px;
+
+    --section-padding:120px;
+
+    /* Bordes */
+
+    --radius-sm:8px;
+    --radius-md:16px;
+    --radius-lg:24px;
+    --radius-pill:999px;
+
+    /* Sombras */
+
+    --shadow-lg:0 10px 30px rgba(0,0,0,.35);
+
+    /* Animaciones */
+
+    --transition:.35s ease;
+
+}
