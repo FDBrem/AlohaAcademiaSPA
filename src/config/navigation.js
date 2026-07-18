@@ -1,18 +1,18 @@
 export const navigation = [
 
     {
-        label:"Inicio",
-        href:"#inicio"
-    },
-
-    {
-        label:"Filosofía",
-        href:"#filosofia"
+        label:"Disciplinas",
+        href:"#disciplinas"
     },
 
     {
         label:"Principios",
         href:"#principios"
+    },
+
+    {
+        label:"Rutinas Online",
+        href:"#rutinas"
     },
 
     {
