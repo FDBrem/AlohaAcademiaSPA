@@ -2,7 +2,7 @@ import "./Info.css";
 
 const InfoAcademia =() => {
     return(
-    <section className="hero">
+    <section className="info">
       <div className="info-content">
 
             <div className="info-left">
@@ -34,7 +34,7 @@ const InfoAcademia =() => {
                         </a>
                     </div>
 
-                <div className="hero-cards">
+                <div className="info-cards">
 
                         <div className="hero-card">
                             <span>👨‍👩‍👧‍👦</span>
