@@ -6,22 +6,20 @@ const InfoAcademia =() => {
       <div className="info-content">
 
             <div className="info-left">
-                <span className="info-tag">
-                    Aloha Dojo
-                </span>
-
+                
                 <h1>
-                    Entrena.
+                    Entrena
                     <br />
-                    Aprende.
-                    <br />
-                    Pertenece.
+                    Aprende
+                    <br /> 
+                    Pertenece
                 </h1>
 
                     <p>
-                        Brazilian Jiu-Jitsu para niños, jóvenes y adultos.
-                        Desarrollá confianza, disciplina y comunidad en un ambiente
-                        profesional donde cada alumno encuentra su lugar.
+                        Brazilian Jiu-Jitsu para niños, jóvenes y adultos.<br />
+                        Desarrollá confianza, disciplina y comunidad en<br />
+                        un ambiente profesional donde cada alumno <br />
+                        encuentra su lugar.
                     </p>
 
                     <div className="info-buttons">
@@ -36,7 +34,7 @@ const InfoAcademia =() => {
 
                 <div className="info-cards">
 
-                        <div className="hero-card">
+                        <div className="info-card">
                             <span>👨‍👩‍👧‍👦</span>
 
                             <h3>Niños y Adultos</h3>
@@ -44,7 +42,7 @@ const InfoAcademia =() => {
                             <p>Clases adaptadas para todas las edades.</p>
                         </div>
 
-                        <div className="hero-card">
+                        <div className="info-card">
                             <span>🥋</span>
 
                             <h3>Todos los niveles</h3>
@@ -52,7 +50,7 @@ const InfoAcademia =() => {
                             <p>Desde principiantes hasta competidores.</p>
                         </div>
 
-                        <div className="hero-card">
+                        <div className="info-card">
                             <span>🤝</span>
 
                             <h3>Comunidad</h3>
